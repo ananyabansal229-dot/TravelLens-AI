@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android / iOS generated files
+*.keystore
+*.jks
+*.mobileprovision
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Model checkpoints and large files
+*.h5
+*.keras
+*.pt
+*.pth
+*.tflite
+
+# Temporary files
+*.log
+temp/
