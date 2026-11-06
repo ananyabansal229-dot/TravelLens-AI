@@ -1,0 +1,72 @@
+[
+  {
+    "id": "IN001",
+    "name": "Taj Mahal",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "category": "Historical Monument",
+    "description": "A UNESCO-listed marble mausoleum known for its Mughal architecture.",
+    "historical_significance": "Commissioned by Mughal emperor Shah Jahan.",
+    "languages": ["English", "Hindi"],
+    "offline_available": true,
+    "latitude": 27.1751,
+    "longitude": 78.0421
+  },
+  {
+    "id": "IN002",
+    "name": "Fort Aguada",
+    "country": "India",
+    "state": "Goa",
+    "city": "Candolim",
+    "category": "Fort",
+    "description": "A historic Portuguese-era fort overlooking the Arabian Sea.",
+    "historical_significance": "Built during Portuguese rule in Goa.",
+    "languages": ["English", "Hindi"],
+    "offline_available": true,
+    "latitude": 15.4921,
+    "longitude": 73.7737
+  },
+  {
+    "id": "IN003",
+    "name": "Dal Lake",
+    "country": "India",
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "category": "Natural Attraction",
+    "description": "A famous Himalayan lake known for its houseboats and shikaras.",
+    "historical_significance": "An important cultural and tourism destination of Kashmir.",
+    "languages": ["English", "Hindi"],
+    "offline_available": true,
+    "latitude": 34.0889,
+    "longitude": 74.8725
+  },
+  {
+    "id": "LK001",
+    "name": "Sigiriya",
+    "country": "Sri Lanka",
+    "state": "Central Province",
+    "city": "Sigiriya",
+    "category": "Historical Site",
+    "description": "An ancient rock fortress and archaeological site.",
+    "historical_significance": "Associated with the ancient royal history of Sri Lanka.",
+    "languages": ["English", "Sinhala"],
+    "offline_available": true,
+    "latitude": 7.9570,
+    "longitude": 80.7603
+  },
+  {
+    "id": "NL001",
+    "name": "Rijksmuseum",
+    "country": "Netherlands",
+    "state": "North Holland",
+    "city": "Amsterdam",
+    "category": "Museum",
+    "description": "A national museum containing important Dutch art and historical collections.",
+    "historical_significance": "A major institution preserving Dutch cultural heritage.",
+    "languages": ["English", "Dutch"],
+    "offline_available": true,
+    "latitude": 52.3600,
+    "longitude": 4.8852
+  }
+]
